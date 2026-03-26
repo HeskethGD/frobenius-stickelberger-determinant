@@ -1,6 +1,6 @@
 # On the Theory of Elliptic Functions
 
-English translation of the 1877 paper "Zur Theorie der elliptischen Functionen" by Ferdinand Georg Frobenius and Ludwig Stickelberger.
+English translation of the 1877 paper "Zur Theorie der elliptischen Functionen" by Ferdinand Georg Frobenius and Ludwig Stickelberger. The paper derives what is now known as the Frobenius Stickelberger determinant formula.
 
 ## About
 
